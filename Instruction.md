@@ -12,8 +12,8 @@
 
 1. Скачать и установить [Visual Studio Code].
 2. Скачать и установить [Git].
-3. Проверить, работает ли Git  с помощью команды `git --version`.
-4. Добавить имя и адрес электронной почты пользователя с помощью команд `git config --global user.email "email@mail.com"` и `git config --global user.name "User Name"`.
+3. Проверить, работает ли Git  с помощью команды **git --version**.
+4. Добавить имя и адрес электронной почты пользователя с помощью команд **git config --global user.email "email@mail.com"** и **git config --global user.name "User Name"**.
 
 [Visual Studio Code]: https://code.visualstudio.com/docs/?dv=win
 [Git]: https://git-scm.com/download/win
